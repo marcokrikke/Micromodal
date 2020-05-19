@@ -1,0 +1,19 @@
+{
+	"name": "micromodal",
+	"version": "0.4.6",
+	"main": [
+		"lib/dist/micromodal.js"
+	],
+	"dependencies": {
+	},
+	"license": "ISC",
+	"keywords": [
+	    "a11y",
+	    "modal",
+	    "accesible"
+	],
+	"ignore": [
+		"package.json",
+		".bowerrc"
+	]
+}
